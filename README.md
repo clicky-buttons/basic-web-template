@@ -6,7 +6,6 @@ A simple and customizable HTML, CSS, and JavaScript template for quick web proje
 
 - 🏗️ **Basic HTML Structure** – Includes a header, main content section, and footer.
 - 🎨 **CSS Styling** – Predefined styles with a modern look and responsive design.
-- 🎭 **Interactive JavaScript** – A button to change the background color dynamically.
 - 📱 **Responsive Design** – Works across desktop and mobile devices.
 
 ## Getting Started
