@@ -13,7 +13,7 @@ A simple and customizable HTML, CSS, and JavaScript template for quick web proje
 
 ### 1️⃣ Clone the Repository
 ```sh
-git clone [https://github.com/your-username/my-web-template.git](https://github.com/clicky-buttons/basic-web-template)
+git clone https://github.com/clicky-buttons/basic-web-template
 ```
 
 ### 2️⃣ Open the Project
