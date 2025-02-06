@@ -19,20 +19,20 @@ git clone https://github.com/clicky-buttons/basic-web-template
 Navigate to the project folder and open `index.html` in a browser.
 
 ### 3️⃣ Customize
-Modify `index.html`, `styles.css`, and `script.js` as needed to fit your project.
+Modify `index.html`, `style.css`, and `script.js` as needed to fit your project.
 
 ## File Structure
 ```
 my-web-template/
 │
 ├── index.html    # Main HTML file
-├── styles.css    # Stylesheet for design
+├── style.css    # Stylesheet for design
 └── script.js     # JavaScript for interactivity
 ```
 
 ## Usage
 1. Edit the `index.html` file to customize the content.
-2. Modify `styles.css` for your preferred design.
+2. Modify `style.css` for your preferred design.
 3. Update `script.js` to add new interactive features.
 
 ## Contributing
