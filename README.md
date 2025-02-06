@@ -34,9 +34,7 @@ my-web-template/
 1. Edit the `index.html` file to customize the content.
 2. Modify `style.css` for your preferred design.
 3. Update `script.js` to add new interactive features.
-
-## Contributing
-Feel free to fork this repository and submit pull requests for improvements.
+4. 
 
 ## License
 This project is licensed under the MIT License.
