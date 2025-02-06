@@ -33,8 +33,7 @@ my-web-template/
 ## Usage
 1. Edit the `index.html` file to customize the content.
 2. Modify `style.css` for your preferred design.
-3. Update `script.js` to add new interactive features.
-4. 
+3. Update `script.js` to add new interactive features. 
 
 ## License
 This project is licensed under the MIT License.
